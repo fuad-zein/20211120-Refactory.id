@@ -1,15 +1,12 @@
 # Skill Test with Refactory.id
 
-This project to test my ability
+This project to test my ability.
 
-## Hello, My Name is Fuad Zein
+## `Part-3_Mini_App`
 
-In this project I divided into four branches on this GitHub repository, with the following details:
+- Buat aplikasi oauth dengan facebook/google, aplikasi harus terdiri dari FE dan backend.
+- setelah berhasil login/register data harus berhasil tersimpan ke Database dan di tampilkan ke FE. aplikasi login/register dengan oauth facebook / google seperti [https://www.kotakode.com/users/login](https://www.kotakode.com/users/login)
+- Buat aplikasi CLI untuk get data informasi user yang login facebook/google.
+- Setelah semua aplikasi selesai, buat diagram dan penjelasan alur aplikasi.
 
-### `Master`
-
-### `Part-1_Test_Logic`
-
-### `Part-2_JSON_Manipulation`
-
-### `Part-3_Mini_App`
+**Note: In this case I took the frontend path.**
