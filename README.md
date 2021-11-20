@@ -1,6 +1,6 @@
 # Skill Test with Refactory.id
 
-This project to test my ability
+This project to test my ability.
 
 ## Hello, My Name is Fuad Zein
 
