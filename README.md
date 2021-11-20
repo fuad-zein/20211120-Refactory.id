@@ -4,10 +4,10 @@ This project to test my ability
 
 ## Hello, My Name is Fuad Zein
 
-In this project I divided into three branches on this repository, with the following division:
+In this project I divided into four branches on this GitHub repository, with the following details:
 
-### 'Part-1_Test_Logic'
+### `Part-1_Test_Logic`
 
-### 'Part-2_JSON_Manipulation'
+### `Part-2_JSON_Manipulation`
 
-### 'Part-3_Mini_App'
+### `Part-3_Mini_App`
