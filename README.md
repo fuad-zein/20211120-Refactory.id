@@ -1,22 +1,18 @@
 # Skill Test with Refactory.id
 
-This project to test my ability
+This project to test my ability.
 
-### `Part-2_JSON_Manipulation`
+## `Part-2_JSON_Manipulation`
 
 Assume we have data.json in our local source code:
 
-```data.json
+```json
 [
   {
     "inventory_id": 9382,
     "name": "Brown Chair",
     "type": "furniture",
-    "tags": [
-      "chair",
-      "furniture",
-      "brown"
-    ],
+    "tags": ["chair", "furniture", "brown"],
     "purchased_at": 1579190471,
     "placement": {
       "room_id": 3,
@@ -27,11 +23,7 @@ Assume we have data.json in our local source code:
     "inventory_id": 9380,
     "name": "Big Desk",
     "type": "furniture",
-    "tags": [
-      "desk",
-      "furniture",
-      "brown"
-    ],
+    "tags": ["desk", "furniture", "brown"],
     "purchased_at": 1579190642,
     "placement": {
       "room_id": 3,
@@ -42,9 +34,7 @@ Assume we have data.json in our local source code:
     "inventory_id": 2932,
     "name": "LG Monitor 50 inch",
     "type": "electronic",
-    "tags": [
-      "monitor"
-    ],
+    "tags": ["monitor"],
     "purchased_at": 1579017842,
     "placement": {
       "room_id": 3,
@@ -55,9 +45,7 @@ Assume we have data.json in our local source code:
     "inventory_id": 232,
     "name": "Sharp Pendingin Ruangan 2PK",
     "type": "electronic",
-    "tags": [
-      "ac"
-    ],
+    "tags": ["ac"],
     "purchased_at": 1578931442,
     "placement": {
       "room_id": 5,
@@ -68,11 +56,7 @@ Assume we have data.json in our local source code:
     "inventory_id": 9382,
     "name": "Alat Makan",
     "type": "tableware",
-    "tags": [
-      "spoon",
-      "fork",
-      "tableware"
-    ],
+    "tags": ["spoon", "fork", "tableware"],
     "purchased_at": 1578672242,
     "placement": {
       "room_id": 10,
