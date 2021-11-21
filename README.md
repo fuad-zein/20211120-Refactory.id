@@ -23,6 +23,7 @@ With this JSON manipulation, we have to process the data.json and call the data 
 A mini-apps project which is based on the React JS framework. You can open it in a browser by entering the address [http://localhost:3000/](http://localhost:3000/).
 
 You can run in the terminal with:
-`cd mini-app` = to enter its directory.
-`npm install` = to install the dependencies
-`npm start` = to run the program
+
+- `cd mini-app`: to enter its directory.
+- `npm install`: to install the dependencies
+- `npm start`: to run the program
