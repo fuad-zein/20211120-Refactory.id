@@ -1,8 +1,6 @@
 const data = require("./data.json");
-// console.log(data);
-// create function to get data json
-// find items and show them
-function getData() {
-  return data;
+
+function findItemsByType(type) {
+  return data.filter((item) => item.placement.name === type);
 }
-console.log(getData("Meeting Room"));
+console.log(findItemsByType("Meeting Room"));
