@@ -1,5 +1,3 @@
-// nearest fibonacci
-// Have the function to find nearest Fibonacci numbers, that the parameter is array
 function nearestFibonacci(arr) {
   let fibonacci = [0, 1];
   let result = [];
