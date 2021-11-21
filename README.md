@@ -10,6 +10,7 @@ This project to test my ability.
 - Setelah semua aplikasi selesai, buat diagram dan penjelasan alur aplikasi.
 
 **Note: In this case I took the frontend path.**
+**### You must run `cd mini-app` to install or run program.**
 
 # Getting Started with Create React App
 
