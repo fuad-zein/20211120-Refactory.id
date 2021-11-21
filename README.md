@@ -25,5 +25,5 @@ A mini-apps project which is based on the React JS framework. You can open it in
 You can run in the terminal with:
 
 - `cd mini-app`: to enter its directory.
-- `npm install`: to install the dependencies
-- `npm start`: to run the program
+- `npm install`: to install the dependencies.
+- `npm start`: to run the program.
