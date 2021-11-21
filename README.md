@@ -2,7 +2,7 @@
 
 This project to test my ability.
 
-## Hello, My Name is Fuad Zein
+## Hello, My Name is `Fuad Zein`
 
 In this project I divided into four branches on this GitHub repository, with the following details:
 
