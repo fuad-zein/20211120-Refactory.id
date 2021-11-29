@@ -34,7 +34,7 @@ This project to test my ability.
 
 **Mobile Engineer**
 
-- Buatlah sebuah aplikasi **To Do** dengan desain seperti di sini: (**lihat desain mobile saja**)[https://www.figma.com/file/uvLIMVVlssrWOYa8xMfvnQ/Untitled?node-id=0%3A1](https://www.figma.com/file/uvLIMVVlssrWOYa8xMfvnQ/Untitled?node-id=0%3A1)
+- Buatlah sebuah aplikasi **To Do** dengan desain seperti di sini: ([**lihat desain mobile saja**](https://www.figma.com/file/uvLIMVVlssrWOYa8xMfvnQ/Untitled?node-id=0%3A1))
 - Aplikasi harus memiliki login dengan oauth antara google/facebook
 - Aplikasi boleh bersifat serverless atau menggunakan server buatan sendiri
 - Fungsionalitas sederhana secara lokal dapat Menambah, Mengubah, Menghapus, Melihat.
